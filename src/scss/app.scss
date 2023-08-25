@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'normalize';
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+body {
+    background: $very-light-gray;
+    font-size: 14px;
+}
+
+.text-bold {
+    font-weight: 600;
+}
